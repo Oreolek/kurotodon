@@ -2,8 +2,6 @@
 div.contents.tootbox {
 	overflow-x: hidden;
 	overflow-y: hidden;
-	word-break: break-all;
-	word-wrap: break-word;
 	white-space: nowrap;
 	height: 100%;
 }
@@ -103,8 +101,6 @@ div.contents.tootbox {
 .tootimages .imageitem > div {
 	display: inline-block;
 	vertical-align: middle;
-	word-break: break-all;
-	word-wrap: break-word;
 	white-space: normal;
 }
 
@@ -154,8 +150,6 @@ div.contents.tootbox {
 .tootreply .replyitem > div {
 	display: table-cell;
 	vertical-align: middle;
-	word-break: break-all;
-	word-wrap: break-word;
 	padding: 4px;
 }
 
